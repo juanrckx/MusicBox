@@ -8,29 +8,29 @@
     ".NETCoreApp,Version=v8.0": {
       "MusicBox/1.0.0": {
         "dependencies": {
-          "ManagedBass": "3.1.0",
-          "ManagedBass.Fx": "3.1.0"
+          "ManagedBass": "4.0.2",
+          "ManagedBass.Fx": "4.0.2"
         },
         "runtime": {
           "MusicBox.dll": {}
         }
       },
-      "ManagedBass/3.1.0": {
+      "ManagedBass/4.0.2": {
         "runtime": {
-          "lib/netstandard1.4/ManagedBass.dll": {
-            "assemblyVersion": "3.1.0.0",
-            "fileVersion": "3.1.0.0"
+          "lib/net8.0/ManagedBass.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.0.2.0"
           }
         }
       },
-      "ManagedBass.Fx/3.1.0": {
+      "ManagedBass.Fx/4.0.2": {
         "dependencies": {
-          "ManagedBass": "3.1.0"
+          "ManagedBass": "4.0.2"
         },
         "runtime": {
-          "lib/netstandard1.4/ManagedBass.Fx.dll": {
-            "assemblyVersion": "3.1.0.0",
-            "fileVersion": "3.1.0.0"
+          "lib/net8.0/ManagedBass.Fx.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.0.2.0"
           }
         }
       }
@@ -42,19 +42,19 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ManagedBass/3.1.0": {
+    "ManagedBass/4.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-K5Zuo0SGvG1SWG18PCG60mJhZBhDb28Ih3w0qotCClomOdPDTMi7UEafEv+brKopUtMXo8vG+OoGlqMEWJ6i7g==",
-      "path": "managedbass/3.1.0",
-      "hashPath": "managedbass.3.1.0.nupkg.sha512"
+      "sha512": "sha512-EzVnBGxqjSzRgLuo94Muauvk1SPwD3LOOHp+4c33iC1EBez+mDW71+gJL35E9V5U5Sb/WNeJxnzHtUNOeOfqdw==",
+      "path": "managedbass/4.0.2",
+      "hashPath": "managedbass.4.0.2.nupkg.sha512"
     },
-    "ManagedBass.Fx/3.1.0": {
+    "ManagedBass.Fx/4.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-r9soKHgGnDrkW3w8nj2ykTm5ifVvKrq7ASproWlV7H5/oDHDDQ8e6JFh5egVOIXduhEmdJtMldKX2nWkkjoSfw==",
-      "path": "managedbass.fx/3.1.0",
-      "hashPath": "managedbass.fx.3.1.0.nupkg.sha512"
+      "sha512": "sha512-kG7pGxrICvytN3yXuM+z5CJqiEbGyGFndVyBax556rSW+vDyyZ8+UCShA8ampaqdoWoIj7K/seAOoe/r0Uen/w==",
+      "path": "managedbass.fx/4.0.2",
+      "hashPath": "managedbass.fx.4.0.2.nupkg.sha512"
     }
   }
 }

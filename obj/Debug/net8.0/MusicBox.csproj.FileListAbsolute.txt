@@ -17,3 +17,4 @@
 /Users/juan_rcx/Programacion/MusicBox-Project/obj/Debug/net8.0/MusicBox.pdb
 /Users/juan_rcx/Programacion/MusicBox-Project/obj/Debug/net8.0/MusicBox.genruntimeconfig.cache
 /Users/juan_rcx/Programacion/MusicBox-Project/obj/Debug/net8.0/ref/MusicBox.dll
+/Users/juan_rcx/Programacion/MusicBox-Project/bin/Debug/net8.0/libbass.dylib

@@ -47,13 +47,13 @@ public class AudioEngine : IDisposable
         // Reproducir cada nota
         foreach (var note in notes)
         {
-            PlayNote(note);
+            PlayNoteSync(note);         // Cambiado a método síncrono
         }
         
         Console.WriteLine("Reproducción completa.");
     }
     
-    private void PlayNote(Note note)
+    private void PlayNoteSync(Note note)
     {
         if (note == null || note.Duration == null)
             return;
@@ -67,6 +67,9 @@ public class AudioEngine : IDisposable
         {
             // Pedir al ToneGenerator que toque esta nota
             _toneGenerator.PlayTone(note.Frequency, durationSeconds);
+
+            // Pequeña pausa
+            Thread.Sleep(50);
         }
         catch (Exception ex)
         {
