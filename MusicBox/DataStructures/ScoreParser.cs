@@ -20,6 +20,11 @@ public class ScoreParser
     // Método principal: convierte el texto en lista de notas
     public DoublyLinkedList<Note> Parse(string scoreString)
     {
+        if (string.IsNullOrWhiteSpace(scoreString))
+        {
+            throw new FormatException("La partitura no puede estar vacía");
+        }
+
         var list = new DoublyLinkedList<Note>();
 
         // Dividir "(Do, negra), (Mi, blanca)" en ["(Do, negra)", "(Mi, blanca)"]
