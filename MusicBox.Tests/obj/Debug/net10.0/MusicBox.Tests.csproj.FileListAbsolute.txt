@@ -1,0 +1,6 @@
+/Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/obj/Debug/net10.0/MusicBox.Tests.csproj.AssemblyReference.cache
+/Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/obj/Debug/net10.0/MusicBox.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/obj/Debug/net10.0/MusicBox.Tests.AssemblyInfoInputs.cache
+/Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/obj/Debug/net10.0/MusicBox.Tests.AssemblyInfo.cs
+/Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/obj/Debug/net10.0/MusicBox.Tests.csproj.CoreCompileInputs.cache
+/Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/obj/Debug/net10.0/MusicBox.Tests.sourcelink.json

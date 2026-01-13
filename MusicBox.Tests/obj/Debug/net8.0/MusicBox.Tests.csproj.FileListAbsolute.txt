@@ -1,9 +1,11 @@
-/Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_MusicBox.Tests
-/Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/xunit.abstractions.dll
+/Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping
 /Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/MusicBox.deps.json
 /Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/MusicBox.runtimeconfig.json
+/Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/libbass.dylib
 /Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/MusicBox
-/Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.testadapter.dll
+/Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
 /Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/MusicBox.Tests.deps.json
 /Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/MusicBox.Tests.runtimeconfig.json
 /Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/MusicBox.Tests.dll
@@ -21,6 +23,7 @@
 /Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/testhost.dll
 /Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/xunit.abstractions.dll
 /Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/xunit.assert.dll
 /Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/xunit.core.dll
 /Users/juan_rcx/Programacion/MusicBox-Project/MusicBox.Tests/bin/Debug/net8.0/xunit.execution.dotnet.dll

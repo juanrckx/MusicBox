@@ -6,9 +6,9 @@
   "expectedPackageFiles": [
     "/Users/juan_rcx/.nuget/packages/managedbass/4.0.2/managedbass.4.0.2.nupkg.sha512",
     "/Users/juan_rcx/.nuget/packages/managedbass.fx/4.0.2/managedbass.fx.4.0.2.nupkg.sha512",
-    "/Users/juan_rcx/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
     "/Users/juan_rcx/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
-    "/Users/juan_rcx/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.22/microsoft.netcore.app.host.osx-arm64.8.0.22.nupkg.sha512"
+    "/Users/juan_rcx/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.22/microsoft.netcore.app.host.osx-arm64.8.0.22.nupkg.sha512",
+    "/Users/juan_rcx/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512"
   ],
   "logs": []
 }

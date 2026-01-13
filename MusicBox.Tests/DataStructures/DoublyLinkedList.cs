@@ -20,7 +20,6 @@ namespace MusicBox.Tests
             // Assert
             Assert.Equal(3, list.Count);
         }
-
         [Fact]
         public void AddLast_ToEmptyList_SetsHeadAndTail()
         {
@@ -54,7 +53,6 @@ namespace MusicBox.Tests
             // Assert
             Assert.Equal(new[] { 10, 20, 30 }, result);
         }
-
         [Fact]
         public void TraverseBackward_ReturnsItemsInReverseOrder()
         {
@@ -69,8 +67,7 @@ namespace MusicBox.Tests
 
             // Assert
             Assert.Equal(new[] { 30, 20, 10 }, result);
-        }
-
+        } 
         [Fact]
         public void MultipleAddLast_MaintainsCorrectLinks()
         {
@@ -108,7 +105,7 @@ namespace MusicBox.Tests
             Assert.Null(list.Head);
             Assert.Null(list.Tail);
         }
-
+        
         [Fact]
         public void SingleItemList_HeadAndTailAreSame()
         {

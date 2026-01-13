@@ -32,7 +32,7 @@ public class ScoreParser
         
         foreach (string pair in notePairs)
         {
-            // Limpiar paréntesis
+            // Limpiar paréntesis y espacios
             string cleanPair = pair.Trim('(', ')', ' ');
 
             // Separar por coma: "Do, negra" -> ["Do", "negra"]
